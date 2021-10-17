@@ -1,0 +1,38 @@
+#Brands-We-Service{
+  text-align: center;
+}
+.col{
+  text-align: center;
+}
+.container{
+  background-color: #fd7e14;
+ color: blackgrey;
+   text-align: center;
+}
+.Text-1{
+  text-align: center;
+}
+#top-div{
+  background-color: #fd7e14;
+}
+#Brands{
+  background-color: black;
+  color: white;
+}
+#icon{
+  width: 40%;
+}
+#title-img{
+  width: 60%;
+  padding: 5%;
+}
+#title-font{
+     margin-top:20%;
+}
+.brand-image{
+
+}
+.btn-anchor{
+  text-decoration: none;
+  color: white;
+}
